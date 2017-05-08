@@ -1,0 +1,11 @@
+[
+	{
+		"id": "2",
+		"titulo": "Tu Nombre Despues de la Lluvia",
+ 		"autor": "Victoria Alvarez",
+ 		"editorial": "Ediciones B",
+ 		"descripcion": "Corren los primeros dias de enero de 1903 y el profesor Quills, un hombre sabio y triste, vuelve a su casa de Oxford despues de asistir a unas conferencias en Londres; Oliver Saunders, joven y timido, trabaja en su pequeño cuarto de Balliol College, rodeado de diccionarios y novelas goticas; Lionel Lennox, amante de la buena vida y de las faldas ligeras, esta en Egipto, a punto de profanar la tumba de una princesa para llevarse una joya de inestimable valor. Poco tienen en comun los tres amigos, excepto el interes por las nuevas ciencias que exploran el mundo del mas alla, y muy pronto sus ganas de saber los llevaran a Irlanda, una tierra plagada de leyendas, donde las piedras tienen una historia que contar y el sonido de la lluvia se confunde con el llanto de las mujeres.",
+ 		"imagen":"public/img/dos.png",
+		"descarga": "public/libros-pdf/Tu Nombre Despues de la lluvia.pdf" 		
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"id": "5",
+		"titulo": "La Vida y la Danza",
+ 		"autor": "Victor Ullate",
+ 		"editorial": "LA ESFERA DE LOS LIBROS",
+ 		"descripcion": "Victor Ullate, una leyenda de la danza, bailarin, coreografo y maestro, rememora su vida en el transcurso de una intensa jornada. Mientras da clase a sus alumnos, ensaya con su compañia, asiste a la representacion de su obra Samsara y recibe el aplauso del publico, su memoria viaja a traves de su infancia, sus primeros pasos profesionales en la compañia de Antonio Ruiz Soler, sus triunfos con el Ballet del Siglo xx de Maurice Bejart, sus sinsabores como primer director del Ballet Nacional Clasico y la aventura de crear y mantener en auge durante veinticinco años a su propia compañia: el Ballet Victor Ullate Comunidad de Madrid. De este viaje en el tiempo surge un retrato poliedrico de Ullate el gran bailarin y maestro, pero tambien de Victor el hombre, siempre en busca de si mismo, y de la danza, el arte que expresa todo lo animal y lo espiritual del ser humano porque olvida lo racional, que es la palabra.",
+ 		"imagen": "public/img/cinco.png",
+		"descarga": "public/libros-pdf/la danza y la vida.pdf"
+	}
+]

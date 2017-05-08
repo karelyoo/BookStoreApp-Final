@@ -1,0 +1,11 @@
+[
+   {
+		"id": "1",
+		"titulo": "La Historia del Loco",
+ 		"autor": "John Katzenbach",
+		"editorial": "Ediciones B",
+		"descripcion": "Su familia lo recluyo en el psiquiatrico tras una conducta imprevisible. Pero un reencuentro en los terrenos de la clausurada institucion remueve algo profundo en su mente agitada: unos recuerdos sombrios sobre los truculentos hechos que condujeron al cierre del W. S. Hospital, y el asesinato sin resolver de una joven enfermera, cuyo cadaver mutilado fue encontrado una noche despues del cierre de las luces. La policia sospecho de un paciente, pero solo ahora, con la reaparicion del asesino, se conocera la respuesta.",
+		"imagen": "public/img/uno.png",
+		"descarga": "public/libros-pdf/La historia del loco.pdf"
+	}
+]

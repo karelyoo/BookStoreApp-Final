@@ -1,0 +1,11 @@
+[
+    {
+	 	"id": "3",
+		"titulo": "El Ladron de las Sombras",
+ 		"autor": "Alexey Pehov",
+ 		"editorial": "Booket",
+ 		"descripcion": "El Sin Nombre esta reuniendo a un ejercito, aunando fuerzas de criaturas de todos los rincones de las Tierras Desoladas, por primera vez unidos. Para hallar un modo de detenerlos, Harold, el legendario ladron de Siala, contara con la ayuda de la princesa elfa, su escolta elfica, y una decena de Corazones Salvajes. Su mision, encontrar un artefacto magico que devolvera la paz al reino de Siala.",
+ 		"imagen": "public/img/tres.jpg",
+		"descarga": "public/libros-pdf/al ladron de las sombras.pdf"
+	}
+]

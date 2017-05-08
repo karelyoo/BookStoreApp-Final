@@ -1,0 +1,11 @@
+[
+	{
+		"id":"4",
+		"titulo": "Caballo Blanco",
+ 		"autor": "ADAMS, ALEX",
+ 		"editorial": "UMBRIEL",
+ 		"descripcion": "Un dia, Zoe llevaba una vida demasiado comun, como trabajadora en una compañia farmaceutica. Al dia siguiente, el presidente de los Estados Unidos anuncia que los seres humanos estan por extinguirse. Cuando Zoe se da cuenta de que todas las personas a las que amaba han desaparecido, empieza a correr. Asustada y sola en un mundo que se derrumba a su alrededor, Zoe se embarca en un viaje desesperado de supervivencia y redencion por un planeta que parece abocado a una inevitable destruccion. En su camino debe enfrentarse con el hambre, la desesperación, la atroz competencia con otros sobrevivientes y la voracidad de un virus irrefrenable, llamado Caballo blanco. Pero tambien vislumbra algo que parecia tan extinto como el universo: la esperanza.El primer titulo de una impresionante trilogia apocaliptica, Caballo blanco nos ofrece una descarnada vision de un mundo roto, pero tambien la posibilidad de encontrar un brillo de vida en los lugares mas inesperados.",
+ 		"imagen": "public/img/cuatro.png",
+		"descarga": "public/libros-pdf/caballo blanco.pdf"
+	}
+]
